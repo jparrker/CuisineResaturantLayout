@@ -180,7 +180,7 @@ header section nav a {
      font-weight: lighter;
 }
 .left-bg {
-     background: url('/assets/pies.png') no-repeat;
+     background: url(../assets/pies.png) no-repeat;
      
      background-size: cover;
 
@@ -188,7 +188,7 @@ header section nav a {
 }
 
 .right-bg {
-     background: url('/assets/oatmeal.jpg') no-repeat;
+     background: url(../assets/oatmeal.jpg) no-repeat;
      background-size: cover;
     
 }
